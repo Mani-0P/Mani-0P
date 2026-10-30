@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abdul Rehman Yaqoob 👋
 
-<!--
-**Mani-0P/Mani-0P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Development Intern | Angular & MEAN Stack Learner
 
-Here are some ideas to get you started:
+I'm currently doing my internship at **AIMS Soft**, learning Angular and improving my full-stack development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React
+- **Backend:** Node.js, Express.js, PHP, Python
+- **Database:** MongoDB, MySQL, Firebase, Supabase
+- **Tools:** Git, GitHub, Postman, VS Code, Docker, Kubernets
+
+### 🌱 Currently Learning
+- Angular
+- MEAN Stack Development
+  
+### 📫 Contact
+- Email: rehmanmughalary@gmail.com
+
+⭐ Thanks for visiting my profile!
