@@ -8,7 +8,7 @@ I'm currently doing my internship at **AIMS Soft**, learning Angular and improvi
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React
 - **Backend:** Node.js, Express.js, PHP, Python
 - **Database:** MongoDB, MySQL, Firebase, Supabase
-- **Tools:** Git, GitHub, Postman, VS Code, Docker, Kubernets
+- **Tools:** Git, GitHub, Postman, Xampp, VS Code, Docker, Kubernetes
 
 ### 🌱 Currently Learning
 - Angular
